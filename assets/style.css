@@ -1,5 +1,6 @@
 body {
-    background-image: url("../assets/images/light_checkered_tiles_@2X.png");
+    /* background-image: url("../assets/images/light_checkered_tiles_@2X.png"); */
+    background-image: linear-gradient(to bottom, #e2e2e286, #050505);
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
     margin-bottom: 10%;   
